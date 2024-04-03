@@ -8,3 +8,4 @@ Code List
 - Image Editing
 - Automatic Speech Recognition
 - Image Super Resolution (to do...)
+- Facial Expression Recognition
